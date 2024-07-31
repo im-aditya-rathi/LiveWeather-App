@@ -1,8 +1,23 @@
-# Weather app - LIVE
-### Realtime LIVE weather check around the world.
+# Live Weather App
+
+## Description
+
+This is a weather application that provides live weather updates for locations around the world. The app is built using HTML, Bootstrap, and Vanilla JavaScript, ensuring a responsive and interactive user experience.
+
+## Features
+
+- **Live Weather Updates:** Get real-time weather information for any location worldwide.
+- **Responsive Design:** Built with Bootstrap to ensure the app is accessible on all devices.
+- **Interactive Interface:** Easy-to-use interface designed with HTML and Vanilla JavaScript.
+
+## Technologies Used
+
+- **HTML:** For the basic structure of the app.
+- **Bootstrap:** For responsive design and styling.
+- **Vanilla JavaScript:** For interactive features and API calls.
+
 
 <hr>
-
 <!-- Screenshots lists -->
 
 ## Screenshots
